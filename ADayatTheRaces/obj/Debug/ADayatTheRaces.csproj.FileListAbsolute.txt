@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ADayatTheRaces\ADayatTheRaces\bin\Debug\ADayatTheRaces.exe.config
+C:\Users\User\Desktop\ADayatTheRaces\ADayatTheRaces\obj\Debug\ADayatTheRaces.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ADayatTheRaces\ADayatTheRaces\obj\Debug\ADayatTheRaces.Form1.resources
+C:\Users\User\Desktop\ADayatTheRaces\ADayatTheRaces\obj\Debug\ADayatTheRaces.Properties.Resources.resources
+C:\Users\User\Desktop\ADayatTheRaces\ADayatTheRaces\obj\Debug\ADayatTheRaces.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ADayatTheRaces\ADayatTheRaces\bin\Debug\ADayatTheRaces.exe
+C:\Users\User\Desktop\ADayatTheRaces\ADayatTheRaces\bin\Debug\ADayatTheRaces.pdb
+C:\Users\User\Desktop\ADayatTheRaces\ADayatTheRaces\obj\Debug\ADayatTheRaces.exe
+C:\Users\User\Desktop\ADayatTheRaces\ADayatTheRaces\obj\Debug\ADayatTheRaces.pdb
