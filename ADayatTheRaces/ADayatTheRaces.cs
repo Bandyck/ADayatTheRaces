@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace ADayatTheRaces
 {
+
+
     public partial class Form1 : Form
     {
         enum Guys
@@ -20,6 +22,22 @@ namespace ADayatTheRaces
 
         public Form1()
         {
+            Greyhound[] dog = new Greyhound[4];
+            dog[0] = new Greyhound();
+            dog[1] = new Greyhound();
+            dog[2] = new Greyhound();
+            dog[3] = new Greyhound();
+
+            Guy[] guy = new Guy[3];
+            guy[0] = new Guy();
+            guy[1] = new Guy();
+            guy[2] = new Guy();
+
+            Bet[] bet = new Bet[3];
+            bet[0] = new Bet();
+            bet[1] = new Bet();
+            bet[2] = new Bet();
+
             InitializeComponent();
         }
 

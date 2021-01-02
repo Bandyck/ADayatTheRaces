@@ -136,13 +136,13 @@
             this.RaceButton.Text = "Race!";
             this.RaceButton.UseVisualStyleBackColor = true;
             // 
-            // TBGuy2
+            // TBGuy0
             // 
-            this.TBGuy2.Location = new System.Drawing.Point(326, 103);
-            this.TBGuy2.Name = "TBGuy2";
-            this.TBGuy2.Size = new System.Drawing.Size(269, 21);
-            this.TBGuy2.TabIndex = 12;
-            this.TBGuy2.Text = "Al\'s bet";
+            this.TBGuy0.Location = new System.Drawing.Point(326, 49);
+            this.TBGuy0.Name = "TBGuy0";
+            this.TBGuy0.Size = new System.Drawing.Size(269, 21);
+            this.TBGuy0.TabIndex = 10;
+            this.TBGuy0.Text = "Joe\'s bet";
             // 
             // TBGuy1
             // 
@@ -152,13 +152,13 @@
             this.TBGuy1.TabIndex = 11;
             this.TBGuy1.Text = "Bob\'s bet";
             // 
-            // TBGuy0
+            // TBGuy2
             // 
-            this.TBGuy0.Location = new System.Drawing.Point(326, 49);
-            this.TBGuy0.Name = "TBGuy0";
-            this.TBGuy0.Size = new System.Drawing.Size(269, 21);
-            this.TBGuy0.TabIndex = 10;
-            this.TBGuy0.Text = "Joe\'s bet";
+            this.TBGuy2.Location = new System.Drawing.Point(326, 103);
+            this.TBGuy2.Name = "TBGuy2";
+            this.TBGuy2.Size = new System.Drawing.Size(269, 21);
+            this.TBGuy2.TabIndex = 12;
+            this.TBGuy2.Text = "Al\'s bet";
             // 
             // BettingLabel
             // 
@@ -221,17 +221,17 @@
             this.BettorLabel.TabIndex = 4;
             this.BettorLabel.Text = "Joe";
             // 
-            // RBGuy2
+            // RBGuy0
             // 
-            this.RBGuy2.AutoSize = true;
-            this.RBGuy2.Location = new System.Drawing.Point(9, 104);
-            this.RBGuy2.Name = "RBGuy2";
-            this.RBGuy2.Size = new System.Drawing.Size(34, 16);
-            this.RBGuy2.TabIndex = 3;
-            this.RBGuy2.TabStop = true;
-            this.RBGuy2.Text = "Al";
-            this.RBGuy2.UseVisualStyleBackColor = true;
-            this.RBGuy2.CheckedChanged += new System.EventHandler(this.RBGuy2_CheckedChanged);
+            this.RBGuy0.AutoSize = true;
+            this.RBGuy0.Location = new System.Drawing.Point(9, 50);
+            this.RBGuy0.Name = "RBGuy0";
+            this.RBGuy0.Size = new System.Drawing.Size(43, 16);
+            this.RBGuy0.TabIndex = 1;
+            this.RBGuy0.TabStop = true;
+            this.RBGuy0.Text = "Joe";
+            this.RBGuy0.UseVisualStyleBackColor = true;
+            this.RBGuy0.CheckedChanged += new System.EventHandler(this.RBGuy0_CheckedChanged);
             // 
             // RBGuy1
             // 
@@ -245,17 +245,17 @@
             this.RBGuy1.UseVisualStyleBackColor = true;
             this.RBGuy1.CheckedChanged += new System.EventHandler(this.RBGuy1_CheckedChanged);
             // 
-            // RBGuy0
+            // RBGuy2
             // 
-            this.RBGuy0.AutoSize = true;
-            this.RBGuy0.Location = new System.Drawing.Point(9, 50);
-            this.RBGuy0.Name = "RBGuy0";
-            this.RBGuy0.Size = new System.Drawing.Size(43, 16);
-            this.RBGuy0.TabIndex = 1;
-            this.RBGuy0.TabStop = true;
-            this.RBGuy0.Text = "Joe";
-            this.RBGuy0.UseVisualStyleBackColor = true;
-            this.RBGuy0.CheckedChanged += new System.EventHandler(this.RBGuy0_CheckedChanged);
+            this.RBGuy2.AutoSize = true;
+            this.RBGuy2.Location = new System.Drawing.Point(9, 104);
+            this.RBGuy2.Name = "RBGuy2";
+            this.RBGuy2.Size = new System.Drawing.Size(34, 16);
+            this.RBGuy2.TabIndex = 3;
+            this.RBGuy2.TabStop = true;
+            this.RBGuy2.Text = "Al";
+            this.RBGuy2.UseVisualStyleBackColor = true;
+            this.RBGuy2.CheckedChanged += new System.EventHandler(this.RBGuy2_CheckedChanged);
             // 
             // MinimumBetLabel
             // 

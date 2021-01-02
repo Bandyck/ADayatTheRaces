@@ -27,7 +27,7 @@ namespace ADayatTheRaces
         }
         public void TakeStartingPosition()
         {
-
+            this.Location = StartingPosition;
         }
     }
 }

@@ -9,9 +9,9 @@ namespace ADayatTheRaces
 {
     public class Guy
     {
-        public string name;
-        public Bet MyBet;
-        public int Cash;
+        public string name; 
+        public Bet MyBet;   
+        public int Cash;    
 
         public RadioButton MyRadioButton;
         public Label MyLabel;
